@@ -1,3 +1,3 @@
-Relational_Database
+#Relational Database
 
-This repository is for create an online shope database with MySQL queries
+This repository is for create online shop  database with MySQL queries
